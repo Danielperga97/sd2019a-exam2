@@ -5,7 +5,14 @@ Repository for the exam2
 
 ## INFRAESTRUCTURA
 toda la infraestructura de compone de 4 maquinas en las cuales se implementaron todos los servicios, uno como manager y los otros 3 como workers, en esta parte se utilizó docker swarm para poder introducir todos los nodos al cluster.
+
+![alt text](https://github.com/Danielperga97/sd2019a-exam2/blob/edi2/images/infra1.png)
+
 Por medio de vagrantfile y de ansible se hizo toda la parte de aprovicionamiento inicial para empesar a configurar cada uno de los nodos.
+
+![alt text](https://github.com/Danielperga97/sd2019a-exam2/blob/edi2/images/infra2.png)
+
+
 
 ## APP
 
